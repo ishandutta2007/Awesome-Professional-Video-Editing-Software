@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Professional-Video-Editing-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Professional-Video-Editing-Software?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Professional-Video-Editing-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Professional-Video-Editing-Software?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Professional-Video-Editing-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Professional-Video-Editing-Software?style=flat-square&color=blue" alt="Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Professional-Video-Editing-Software/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Professional-Video-Editing-Software?style=flat-square&color=orange" alt="Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Professional-Video-Editing-Software/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Professional-Video-Editing-Software?style=flat-square&color=green" alt="License"/></a>
@@ -62,12 +62,12 @@ The table below catalogs premier commercial post-production suites and hosted Sa
 
 ## 💻 Open-Source Video Editing & Compositing Repositories
 
-The repositories below represent leading production-grade, open-source video editing suites, CLI transcoding engines, programmatic video libraries, and specialized compositors. Repositories are sorted in **descending order of GitHub Star count**.
+The repositories below represent leading production-grade, open-source video editing suites, CLI transcoding engines, programmatic video libraries, and specialized compositors. Repositories are sorted in **descending order of GitHub Stars_Count**.
 
 ---
 
 ### 1. ⚛️ Remotion — Programmatic Video Creation in React
-[![GitHub stars](https://img.shields.io/github/stars/remotion-dev/remotion?style=social&color=white)](https://github.com/remotion-dev/remotion/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/remotion-dev/remotion?style=social&color=white)](https://github.com/remotion-dev/remotion/stargazers)  
 - **Repository**: [remotion-dev/remotion](https://github.com/remotion-dev/remotion)  
 - **License**: Custom Open-Source (Free for individuals and companies up to 3 employees)  
 - **Supported Platforms**: Cross-Platform (Node.js, Chromium, AWS Lambda, Docker)  
@@ -77,7 +77,7 @@ The repositories below represent leading production-grade, open-source video edi
 ---
 
 ### 2. ⚡ FFmpeg — The Universal Multimedia Engine & Transcoder
-[![GitHub stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social&color=white)](https://github.com/FFmpeg/FFmpeg/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social&color=white)](https://github.com/FFmpeg/FFmpeg/stargazers)  
 - **Repository**: [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)  
 - **License**: LGPL v2.1+ / GPL v2+  
 - **Supported Platforms**: Linux, macOS, Windows, BSD, Android  
@@ -87,7 +87,7 @@ The repositories below represent leading production-grade, open-source video edi
 ---
 
 ### 3. ✂️ LosslessCut — Ultra-Fast Stream-Copy Video Trimmer
-[![GitHub stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=social&color=white)](https://github.com/mifi/lossless-cut/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=social&color=white)](https://github.com/mifi/lossless-cut/stargazers)  
 - **Repository**: [mifi/lossless-cut](https://github.com/mifi/lossless-cut)  
 - **License**: GPL v2.0  
 - **Supported Platforms**: macOS, Windows, Linux  
@@ -97,7 +97,7 @@ The repositories below represent leading production-grade, open-source video edi
 ---
 
 ### 4. 🧊 Blender (Video Sequence Editor - VSE) — Integrated 3D & Timeline NLE
-[![GitHub stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)  
 - **Repository**: [blender/blender](https://github.com/blender/blender)  
 - **License**: GPL v2.0+  
 - **Supported Platforms**: Windows, macOS, Linux  
@@ -107,7 +107,7 @@ The repositories below represent leading production-grade, open-source video edi
 ---
 
 ### 5. 🎞️ Shotcut — Format-Flexible Cross-Platform NLE
-[![GitHub stars](https://img.shields.io/github/stars/mltframework/shotcut?style=social&color=white)](https://github.com/mltframework/shotcut/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/mltframework/shotcut?style=social&color=white)](https://github.com/mltframework/shotcut/stargazers)  
 - **Repository**: [mltframework/shotcut](https://github.com/mltframework/shotcut)  
 - **License**: GPL v3.0  
 - **Supported Platforms**: Windows, macOS, Linux  
@@ -117,7 +117,7 @@ The repositories below represent leading production-grade, open-source video edi
 ---
 
 ### 6. 🐍 MoviePy — Script-Driven Video Editing with Python
-[![GitHub stars](https://img.shields.io/github/stars/Zulko/moviepy?style=social&color=white)](https://github.com/Zulko/moviepy/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/Zulko/moviepy?style=social&color=white)](https://github.com/Zulko/moviepy/stargazers)  
 - **Repository**: [Zulko/moviepy](https://github.com/Zulko/moviepy)  
 - **License**: MIT License  
 - **Supported Platforms**: Cross-Platform (Python 3.8+)  
@@ -127,7 +127,7 @@ The repositories below represent leading production-grade, open-source video edi
 ---
 
 ### 7. 🎯 Gyroflow — Video Stabilization via IMU/Gyroscope Telemetry
-[![GitHub stars](https://img.shields.io/github/stars/gyroflow/gyroflow?style=social&color=white)](https://github.com/gyroflow/gyroflow/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/gyroflow/gyroflow?style=social&color=white)](https://github.com/gyroflow/gyroflow/stargazers)  
 - **Repository**: [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow)  
 - **License**: GPL v3.0  
 - **Supported Platforms**: Windows, macOS, Linux, iOS, Android  
@@ -137,7 +137,7 @@ The repositories below represent leading production-grade, open-source video edi
 ---
 
 ### 8. 🌿 Olive Video Editor — Node-Based Non-Linear Compositing NLE
-[![GitHub stars](https://img.shields.io/github/stars/olive-editor/olive?style=social&color=white)](https://github.com/olive-editor/olive)  
+[![GitHub_Stars](https://img.shields.io/github/stars/olive-editor/olive?style=social&color=white)](https://github.com/olive-editor/olive)  
 - **Repository**: [olive-editor/olive](https://github.com/olive-editor/olive)  
 - **License**: GPL v3.0  
 - **Supported Platforms**: Windows, macOS, Linux  
@@ -147,7 +147,7 @@ The repositories below represent leading production-grade, open-source video edi
 ---
 
 ### 9. 🎨 OpenShot Video Editor — Friendly Drag-and-Drop Creator Suite
-[![GitHub stars](https://img.shields.io/github/stars/OpenShot/openshot-qt?style=social&color=white)](https://github.com/OpenShot/openshot-qt)  
+[![GitHub_Stars](https://img.shields.io/github/stars/OpenShot/openshot-qt?style=social&color=white)](https://github.com/OpenShot/openshot-qt)  
 - **Repository**: [OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt)  
 - **License**: GPL v3.0  
 - **Supported Platforms**: Windows, macOS, Linux, ChromeOS  
@@ -157,7 +157,7 @@ The repositories below represent leading production-grade, open-source video edi
 ---
 
 ### 10. 🐧 Kdenlive — Professional KDE Multi-Track NLE with Local AI
-[![GitHub stars](https://img.shields.io/github/stars/KDE/kdenlive?style=social&color=white)](https://github.com/KDE/kdenlive)  
+[![GitHub_Stars](https://img.shields.io/github/stars/KDE/kdenlive?style=social&color=white)](https://github.com/KDE/kdenlive)  
 - **Repository**: [KDE/kdenlive](https://github.com/KDE/kdenlive)  
 - **License**: GPL v3.0  
 - **Supported Platforms**: Linux, Windows, macOS, FreeBSD  
@@ -167,7 +167,7 @@ The repositories below represent leading production-grade, open-source video edi
 ---
 
 ### 11. 🪄 Natron — Node-Based VFX & Digital Motion Compositor
-[![GitHub stars](https://img.shields.io/github/stars/NatronGitHub/Natron?style=social&color=white)](https://github.com/NatronGitHub/Natron)  
+[![GitHub_Stars](https://img.shields.io/github/stars/NatronGitHub/Natron?style=social&color=white)](https://github.com/NatronGitHub/Natron)  
 - **Repository**: [NatronGitHub/Natron](https://github.com/NatronGitHub/Natron)  
 - **License**: GPL v2.0  
 - **Supported Platforms**: Windows, macOS, Linux  
@@ -177,7 +177,7 @@ The repositories below represent leading production-grade, open-source video edi
 ---
 
 ### 12. 🏎️ Flowblade — Fast Precision-Cutting Editor for Linux
-[![GitHub stars](https://img.shields.io/github/stars/jliljebl/flowblade?style=social&color=white)](https://github.com/jliljebl/flowblade)  
+[![GitHub_Stars](https://img.shields.io/github/stars/jliljebl/flowblade?style=social&color=white)](https://github.com/jliljebl/flowblade)  
 - **Repository**: [jliljebl/flowblade](https://github.com/jliljebl/flowblade)  
 - **License**: GPL v3.0  
 - **Supported Platforms**: Linux  
@@ -187,7 +187,7 @@ The repositories below represent leading production-grade, open-source video edi
 ---
 
 ### 13. 🔄 OpenTimelineIO — Editorial Timeline Interchange Format & API
-[![GitHub stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/OpenTimelineIO?style=social&color=white)](https://github.com/AcademySoftwareFoundation/OpenTimelineIO)  
+[![GitHub_Stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/OpenTimelineIO?style=social&color=white)](https://github.com/AcademySoftwareFoundation/OpenTimelineIO)  
 - **Repository**: [AcademySoftwareFoundation/OpenTimelineIO](https://github.com/AcademySoftwareFoundation/OpenTimelineIO)  
 - **License**: Apache 2.0  
 - **Supported Platforms**: Cross-Platform (Python, C++, Rust bindings)  
@@ -197,7 +197,7 @@ The repositories below represent leading production-grade, open-source video edi
 ---
 
 ### 14. 🪟 Pitivi — GNOME-Native GStreamer Video Editor
-[![GitHub stars](https://img.shields.io/github/stars/pitivi/pitivi?style=social&color=white)](https://github.com/pitivi/pitivi)  
+[![GitHub_Stars](https://img.shields.io/github/stars/pitivi/pitivi?style=social&color=white)](https://github.com/pitivi/pitivi)  
 - **Repository**: [pitivi/pitivi](https://github.com/pitivi/pitivi)  
 - **License**: LGPL v2.1+  
 - **Supported Platforms**: Linux (Flathub)  
@@ -207,7 +207,7 @@ The repositories below represent leading production-grade, open-source video edi
 ---
 
 ### 15. 📽️ Cinelerra CV — High-Throughput Linux Studio Editor & Compositor
-[![GitHub stars](https://img.shields.io/github/stars/cinelerra-cv-team/cinelerra-cv?style=social&color=white)](https://github.com/cinelerra-cv-team/cinelerra-cv)  
+[![GitHub_Stars](https://img.shields.io/github/stars/cinelerra-cv-team/cinelerra-cv?style=social&color=white)](https://github.com/cinelerra-cv-team/cinelerra-cv)  
 - **Repository**: [cinelerra-cv-team/cinelerra-cv](https://github.com/cinelerra-cv-team/cinelerra-cv)  
 - **License**: GPL v2.0  
 - **Supported Platforms**: Linux (Native)  
