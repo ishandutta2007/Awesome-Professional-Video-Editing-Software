@@ -1,6 +1,6 @@
 # Awesome-Professional-Video-Editing-Software
 
-# Top Professional Video Editing Software Ecosystem
+## Top Professional Video Editing Software Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Non-Linear Timeline Editing, GPU-Accelerated Effects & Self-Hosted Post-Production*  
